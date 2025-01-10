@@ -3,9 +3,9 @@
     <PropertyGroup>
         <OutputType>Exe</OutputType>
         <TargetFramework>net8.0</TargetFramework>
-        <RootNamespace>EntityFramework_classwork</RootNamespace>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
+        <RootNamespace>EtityFrameworkClasswork.CodeFirstApproach</RootNamespace>
     </PropertyGroup>
 
     <ItemGroup>

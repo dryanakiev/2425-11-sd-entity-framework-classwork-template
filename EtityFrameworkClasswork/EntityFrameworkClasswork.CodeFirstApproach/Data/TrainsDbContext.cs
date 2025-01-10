@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace EntityFramework_classwork.Data;
 
-public class TrainsDbContext : Microsoft.EntityFrameworkCore.DbContext
+public class TrainsDbContext : DbContext
 {
     public DbSet<Ticket> Tickets { get; set; }
     public DbSet<Train> Trains { get; set; }

@@ -1,4 +1,4 @@
-﻿namespace EntityFramework_classwork;
+﻿namespace EntityFrameworkClasswork.CodeFirstApproach;
 
 class Program
 {
